@@ -34,10 +34,12 @@ https://vim-bootstrap.com/
 https://vimawesome.com/
 
 Place this in your .vimrc:
+```
+Plugin 'chase/vim-ansible-yaml'
+```
 
-```Plugin 'chase/vim-ansible-yaml'
 … then run the following in Vim:
-
+```
 :source %
 :PlugInstall
 :PlugUpdate
