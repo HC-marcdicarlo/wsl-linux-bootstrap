@@ -2,10 +2,10 @@
 
 ### Windows Linux Subsystem (WSL):
 
-https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://docs.microsoft.com/en-us/windows/wsl/install-on-server
 
 ### WSL fedora remix download
+
 https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases
 
 ### X server:
